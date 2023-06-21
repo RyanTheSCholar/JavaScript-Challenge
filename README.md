@@ -1,2 +1,2 @@
-# JavaScript-Challenge\
+# JavaScript-Challenge
 
